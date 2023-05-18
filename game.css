@@ -32,6 +32,17 @@
   }
 
    
+  #startButton{
+    width : 100px;
+    height: 30px;
+    border: #ff0000;
+    border-radius: 50px;
+    background-color: #0091ff;
+  }
+
+
+
+
 
 
   .container {
