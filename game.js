@@ -72,14 +72,13 @@ $(document).keydown(function() {
 
 
 
-
 $("#startButton").click(function(){
   if (!started) { 
     nextSequence();
     started = true;
     playMid();
+}
 });
-
 
 
 
