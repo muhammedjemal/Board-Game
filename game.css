@@ -1,0 +1,119 @@
+  body {
+    text-align: center;
+    background-color: #011F3F;
+   }
+   .abtBody {
+    background-color: #081f59;
+   }
+   #level-title {
+    font-family: 'cursive-1', cursive;
+    font-size: 3rem;
+    margin:  1% 5%; 
+    color: #FEF2BF;
+
+  }
+  #help{
+    width : 100px;
+    height: 30px;
+    border: #ff0000;
+    border-radius: 50px;
+    background-color: #0091ff;
+  }
+  #about{
+    width : 100px;
+    height: 30px;
+    border: #ff0000;
+    border-radius: 50px;
+    background-color: #792202;
+  }
+
+  .help1 :hover{
+    background-color: #ff0000;
+  }
+
+   
+
+
+  .container {
+    display: block;
+    width: 50%;
+    margin: auto;
+  } 
+
+  .btns {
+    margin: 0% auto;
+    display: inline-block;
+  }
+  .btn {
+    margin: 0% 25px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+
+  }
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }  
+
+  .red {
+    background-color: red;
+  } 
+   
+  .green {
+    background-color: green;
+   
+  }     
+  .blue {
+    background-color: blue;
+  }  
+     
+  .yellow {
+    background-color: rgb(255, 159, 15);
+  }  
+  
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+
+  .bodyy{
+    background-color: aqua;
+    
+  }
+  #foot{
+    width:  30%;
+    margin-right: 0px;
+  }
+
+  .newLevel{
+    color: green;  }
+  .oldLevel{
+    color: palegoldenrod;
+
+  }
+  .haha{
+    color: #ff0000;
+  }
+  h3{
+    color: green;
+  }
+  #jemPic{
+    width : 100px;
+    height: 50px;
+    }
+
+  #bioTxt{
+
+    width : 300px;
+    height: 30px;
+  }
+h3{
+  width : 400px;
+  height: 30px;
+}
+#bioTxt3{
+  left: 50px;
+}
