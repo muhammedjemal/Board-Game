@@ -1,1 +1,1 @@
-# Board-Game
+# Fuzzy AI Game
