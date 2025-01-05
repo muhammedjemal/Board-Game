@@ -1,1 +1,1 @@
-# Fuzzy AI Game
+# Logical IQ
